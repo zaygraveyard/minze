@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.378e6094.js";const g='{"title":"Registration","description":"","frontmatter":{},"headers":[],"relativePath":"guide/components-registration.md","lastUpdated":1644425477934}',e={},p=t("",10),o=[p];function c(l,i,u,k,r,m){return a(),s("div",null,o)}var h=n(e,[["render",c]]);export{g as __pageData,h as default};
